@@ -1,2 +1,2 @@
-# Outlier-
+# Outlier
 Short study on outliers. 
