@@ -19,14 +19,14 @@ Short study on outliers: types, causes, detection process, effects on regression
 - This small study is associated with an article published on the blog [Ensina-ai](https://medium.com/ensina-ai). The article can be found [here](https://medium.com/ensina-ai/outlier-o-ponto-fora-da-curva-1f28f3d9c23).
 
 - The work presents the types of outliers and their main causes, their effects on machine learning models, detection method and treatment of anomalous values found.
-
+<img src="Figures/f1.png"  width="800" height="300">
 
 ## Technologies Used
 - Python - version 3.8.8
 
 
 ## Effect of outliers
-* Effect of the presence of dataset outliers
+* Effects of the presence of outliers in the dataset used.
   * Regression on dataset without outliers: MAE = 29.88
   <img src="Figures/f2.png"  width="800" height="300">
   
