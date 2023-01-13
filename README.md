@@ -29,6 +29,7 @@ Short study on outliers: types, causes, detection process, effects on regression
 * Effect of the presence of dataset outliers
   * Regression on dataset without outliers:
   <img src="Figures/f2.png"  width="800" height="300">
+  
   * Regression on dataset with outliers:
   <img src="Figures/f3.png"  width="800" height="300">
 
