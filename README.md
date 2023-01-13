@@ -12,7 +12,6 @@ Note: This study was done a few years ago. Some things could be done differently
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
