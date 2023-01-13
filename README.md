@@ -27,10 +27,10 @@ Short study on outliers: types, causes, detection process, effects on regression
 
 ## Effect of outliers
 * Effect of the presence of dataset outliers
-  * Regression on dataset without outliers:
+  * Regression on dataset without outliers: MAE = 29.88
   <img src="Figures/f2.png"  width="800" height="300">
   
-  * Regression on dataset with outliers:
+  * Regression on dataset with outliers: MAE = 152.15
   <img src="Figures/f3.png"  width="800" height="300">
 
 ## Screenshots
